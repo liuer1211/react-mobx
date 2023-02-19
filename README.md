@@ -1,22 +1,15 @@
 # 开始
-  npx create-react-app react-mobx
-
-  yarn add mobx 
-
-  yarn add mobx-react-lite
-
-  启动 npm start
+    npx create-react-app react-mobx
+    yarn add mobx 
+    yarn add mobx-react-lite
+    启动 npm start
 
 # hooks
-
-  useState
-
-  useRef
-
-  useEffect
+    useState
+    useRef
+    useEffect
 
 # mobx
-
     创建类 定义对象
     使用mobx方法
     给对象加方法
